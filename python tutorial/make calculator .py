@@ -6,10 +6,10 @@ if z =="+":
 elif z == "-":
     print("subtraction of x-y number",x-y)
 elif z== "*":
-    print("multiplication of two number",x*Y)
+    print("multiplication of two number",x*y)
 elif z=="/":
     print("division of x/y",x/y)
 elif z== "??":       
     print(("floor division of x//y",x//y))
 else:    
-    print("enter the wrong")
+    print("enter the wrong choice")
