@@ -9,4 +9,4 @@ print("reverse",rev)
 if rev==num:
     print("palindrome")
 else:
-    print("not palindrome")
+    print("thi is not palindrome")
