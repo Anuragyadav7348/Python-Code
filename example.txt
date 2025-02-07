@@ -1,0 +1,2 @@
+This is an example.
+File I/O in Python is fun!
